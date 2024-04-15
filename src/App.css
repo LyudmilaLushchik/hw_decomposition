@@ -1,0 +1,96 @@
+#root { 
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.card {
+  display: flex;
+}
+
+img {
+  margin-right: 10px;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+.header-menu {
+  display: flex;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+.news-filter, .filters {
+  display: flex;
+}
+
+.date {
+  margin: auto;
+  padding-left: 20px;
+}
+
+li {
+  margin-left: 20px;
+  padding: 0;
+}
+
+.news {
+  text-align: left;
+}
+
+.currency {
+  display: flex;
+}
+
+.card-title {
+  display: flex;
+}
+
+.descList {
+  text-align: start;
+  margin: 0;
+}
+
+.adv {
+  background-repeat: no-repeat;
+  background-size: cover;  
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+input {
+  width: 100%;
+}
+
+.input-box {
+  position: relative;
+}
+
+.logo {
+  width: 100px;
+  border: 2px solid black;
+  position: absolute;
+  left: -110px
+}
+
+.widgets {
+  width: 700px;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.card-view {
+  margin: 10px;
+}
